@@ -1,0 +1,20 @@
+C:\VS Projects\Birthday Checker\bin\Debug\net8.0-windows\Birthday Checker.exe
+C:\VS Projects\Birthday Checker\bin\Debug\net8.0-windows\Birthday Checker.deps.json
+C:\VS Projects\Birthday Checker\bin\Debug\net8.0-windows\Birthday Checker.runtimeconfig.json
+C:\VS Projects\Birthday Checker\bin\Debug\net8.0-windows\Birthday Checker.dll
+C:\VS Projects\Birthday Checker\bin\Debug\net8.0-windows\Birthday Checker.pdb
+C:\VS Projects\Birthday Checker\obj\Debug\net8.0-windows\MainWindow.g.vb
+C:\VS Projects\Birthday Checker\obj\Debug\net8.0-windows\Application.g.vb
+C:\VS Projects\Birthday Checker\obj\Debug\net8.0-windows\Birthday Checker_MarkupCompile.cache
+C:\VS Projects\Birthday Checker\obj\Debug\net8.0-windows\Birthday Checker_MarkupCompile.lref
+C:\VS Projects\Birthday Checker\obj\Debug\net8.0-windows\MainWindow.baml
+C:\VS Projects\Birthday Checker\obj\Debug\net8.0-windows\Birthday Checker.g.resources
+C:\VS Projects\Birthday Checker\obj\Debug\net8.0-windows\Birthday Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Projects\Birthday Checker\obj\Debug\net8.0-windows\Birthday Checker.AssemblyInfoInputs.cache
+C:\VS Projects\Birthday Checker\obj\Debug\net8.0-windows\Birthday Checker.AssemblyInfo.vb
+C:\VS Projects\Birthday Checker\obj\Debug\net8.0-windows\Birthday Checker.vbproj.CoreCompileInputs.cache
+C:\VS Projects\Birthday Checker\obj\Debug\net8.0-windows\Birthday Checker.dll
+C:\VS Projects\Birthday Checker\obj\Debug\net8.0-windows\refint\Birthday Checker.dll
+C:\VS Projects\Birthday Checker\obj\Debug\net8.0-windows\Birthday Checker.pdb
+C:\VS Projects\Birthday Checker\obj\Debug\net8.0-windows\Birthday Checker.genruntimeconfig.cache
+C:\VS Projects\Birthday Checker\obj\Debug\net8.0-windows\ref\Birthday Checker.dll
